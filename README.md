@@ -28,9 +28,6 @@ The Static web pages are also called flat pages or stationary pages. These web p
 * RESOURCE GROUP
 The resources group saves the Meta information about the available resources. Here the user can specify a location for the resource group and the place where the metadata is saved. Due to compliance issues, the user must give reasons to check the data is saved in a secured particular region. The Azure resource group management model has four sections that help the user to organize their resources into groups. They are resources, resource groups, subscriptions, and management groups.
 
-## Demo video
-https://user-images.githubusercontent.com/91545082/154431953-5fdaa57a-9f12-4c93-abdc-c9be2eef52df.mp4
-
-## Screenshots
-![Screenshot 2022-02-17 131906](https://user-images.githubusercontent.com/91545082/154432339-a52899e6-c0b9-42f6-93a8-4ee63c38a12d.png)
+## screenshot
+"C:\Users\Abi ramya\OneDrive\Desktop\demo screenshot.png"
 
