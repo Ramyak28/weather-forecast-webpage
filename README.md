@@ -31,3 +31,12 @@ The resources group saves the Meta information about the available resources. He
 
 
 
+## Screenshots
+https://github.com/Ramyak28/weather-forecast-webpage/blob/master/src/demo%20screenshot.png
+
+# weather-forecast-webpage
+
+https://github.com/Ramyak28/weather-forecast-webpage/blob/master/src/Demo%20video.mp4
+
+
+
